@@ -8,6 +8,8 @@
     
 </head>
 <body>
+	<a href="./user.php">Current Users</a>
+	<a href="./CypherNetUser.php">cyphernet users</a>
 	<div id = "menu-bar">
 		<div id = "home-button" class = "button">
 			<i class="fa fa-home"></i>
